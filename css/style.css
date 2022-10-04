@@ -110,3 +110,6 @@ ul .content{
     max-height: 215px;
     overflow-y: auto;
 }
+.citation{
+    text-align: center;
+}
